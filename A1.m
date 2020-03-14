@@ -6,7 +6,7 @@ nnmf_init
 
 
 %% Main Header
-subject = [3];
+subject = [3 4 5];
 file='T1';
 folderToSave = 'raw Data5';
 mkdir(folderToSave);
